@@ -5,3 +5,4 @@ out/
 data/
 tensor-runs/
 models/
+trainer_output/
