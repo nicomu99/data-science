@@ -3,3 +3,5 @@
 datasets/
 out/
 data/
+tensor-runs/
+models/
