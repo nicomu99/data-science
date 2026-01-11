@@ -1,0 +1,13 @@
+,dataset_size,type,runtime
+0,4000,fp32,12.2917
+1,4000,Optim,12.1886
+2,4000,Pinned Mem,11.389
+3,4000,Torch Compile,12.1542
+4,8000,fp32,23.7701
+5,8000,Optim,23.8774
+6,8000,Pinned Mem,21.9811
+7,8000,Torch Compile,23.7217
+8,16000,fp32,46.9119
+9,16000,Optim,47.2895
+10,16000,Pinned Mem,43.1967
+11,16000,Torch Compile,46.8717
